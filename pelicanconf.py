@@ -4,6 +4,7 @@ SITEURL = "https://zeus99x.github.io/"
 
 PATH = "content"
 
+
 TIMEZONE = 'America/Chicago'
 
 DEFAULT_LANG = 'English'
