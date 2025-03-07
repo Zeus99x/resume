@@ -6,7 +6,7 @@ This README explains how to create and host your resume as a static website usin
 
 ## Prerequisites
 
-Before you start, you’ll need a few tools. Don’t worry—the setup is straightforward, and the instructions assume a Windows system (though they can be adapted for other operating systems).
+Before you start, you’ll need a few tools. Don’t worry the setup is straightforward, and the instructions assume a Windows system (though they can be adapted for other operating systems).
 
 1. **Git**: A version control system to manage your files. Download it from [git-scm.com](https://git-scm.com/).
 2. **Python**: Required for the Pelican static site generator. Get it at [python.org](https://python.org/).
@@ -14,11 +14,11 @@ Before you start, you’ll need a few tools. Don’t worry—the setup is straig
 4. **GitHub Account**: A free account on [github.com](https://github.com/) to host your work.
 5. **Markdown Editor**: Use Notepad for simplicity, or try Visual Studio Code (from [code.visualstudio.com](https://code.visualstudio.com/)) for a live preview of your Markdown.
 
-You’ll also need your resume content ready—feel free to use your own or create a sample. Basic command-line skills (like `cd` to change directories) will help, but the steps are kept simple.
+You’ll also need your resume content ready, feel free to use your own or create a sample. Basic command line skills (like `cd` to change directories) will help, but the steps are kept simple.
 
 ## Instructions
 
-Here’s how to build and host your resume. Each step follows guidelines from William S. Pfeiffer’s _Technical Communication_—using one action per step and starting with a verb—to ensure clarity. The steps also tie into Etter’s principles from _Modern Technical Writing_.
+Here’s how to build and host your resume. Each step follows guidelines from William S. Pfeiffer’s _Technical Communication_, using one action per step and starting with a verb to ensure clarity. The steps also tie into Etter’s principles from _Modern Technical Writing_.
 
 ### 1. Install Git
 
@@ -43,7 +43,7 @@ Here’s how to build and host your resume. Each step follows guidelines from Wi
 ### 5. Write Your Resume in Markdown
 
 - **Action**: Open a text editor (e.g., Notepad), write your resume (e.g., `# Your Name\n## Experience\n- **Job Title, Company**`), and save it as `resume.md` in the cloned repository folder.
-- **Etter’s Principle**: Etter praises lightweight markup like Markdown for its speed and readability, ideal for content-focused writing.
+- **Etter’s Principle**: Etter praises lightweight markup like Markdown for its speed and readability, ideal for content focused writing.
 
 ### 6. Install Pelican
 
