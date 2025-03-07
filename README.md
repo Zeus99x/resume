@@ -96,8 +96,16 @@ Markdown is simpler and quicker to write. Etter describes it as a lightweight wa
 
 You need to regenerate the site and push it again. Run `pelican content`, then `git add .`, `git commit -m "Update resume"`, and `git push`. GitHub Pages only displays what’s uploaded to the repository.
 
+### How do I update my resume on the website?
+
+To update your resume, simply edit the `resume.md` file in your repository, regenerate the site using `pelican content`, and push the changes to GitHub. Your updates will then be reflected on your live website.
+
+### How can I customize the theme of my resume website?
+
+Pelican supports various themes to customize the look of your website. You can choose a theme from the [Pelican themes site](https://github.com/getpelican/pelican-themes) or create your own. After choosing a theme, you can modify the settings in the `pelicanconf.py` file to apply it to your site.
+
 ### Credits
 
-- Saman HM - Author
-- Duc Can Thai - Peer reviewer
-- Mehedi - Peer reviewer
+- **Saman HM** - Author
+- **Duc Can Thai** - Peer reviewer
+- **Mehedi** - Peer reviewer
